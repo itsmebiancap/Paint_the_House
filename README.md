@@ -1,1 +1,1 @@
-# Paint_the_House
+# This program helps you to find out how much paint you will need to build your house. After receiving full measurements user must deduct the amount of doors and windows that are inside/on the house since windows and doors are not painted.
